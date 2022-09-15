@@ -1,6 +1,9 @@
 # Lista Ligada - Complmenentos
 ---
 
+Lucas Gradilone Valias
+lucas.valias@fatec.sp.gov.br
+
 ## Objetivos
 
 Ao concluir esta atividade você deverá ter compreendido os seguintes conceitos:
